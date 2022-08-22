@@ -104,7 +104,10 @@ https://youtu.be/DULYZ5Nuc6c
 
 # 6.CONCLUSIONES
 
-* 
+* La onda sinusoidal con respecto al análisis de circuitos es la representación gráfica del cambio del voltaje o la corriente con respecto al tiempo.
+
+* La señal de onda sinusoidal del osciloscopio muestra un valor de volatje diferente al del multímetro debido a que el voltaje que muestra el osciloscopio es un valor pico y el valor del multímetro indica el 71% aproximadamente del valor del voltaje pico.
+
 
 # 7.BIBLIOGRAFÍA
 
