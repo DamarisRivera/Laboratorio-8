@@ -3,7 +3,7 @@
 
 **Objetivo General:**
 
-* Analizar y comprender experimentalmente el comportamiento de una onda senoidal dentro del simulador virtual, donde se utilizara el osciloscopio para ver como se presenta la onda y analizar las características que se presentan y reconocer como estas afectan la forma de la onda. 
+* Analizar y comprender experimentalmente el comportamiento de una onda senoidal dentro del simulador virtual, donde se utilizara el osciloscopio para ver como se presenta la onda y analizar las características que se presentan y reconocer como estas afectan la forma de la onda.
 
 **Objetivo Específicos:**
 
