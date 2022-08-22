@@ -21,6 +21,12 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
+**Material y equipo requerido**
+
+![image](https://user-images.githubusercontent.com/105617383/186023453-9a04e24e-8675-4329-aafe-0a241c048c0e.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186023577-a636292d-bcce-4a24-8da0-b9529e627fd1.png)
+
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
