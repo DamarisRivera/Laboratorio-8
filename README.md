@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/186031383-cc9b27c0-b395-464c-abe1-90bce9957295.png)
 
-# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+# 4.RESPUESTA A INTERROGANTES
 
 8.5.4. Responda las siguientes preguntas:
 
@@ -51,7 +51,7 @@
 
 * Esta posisionado en el valor de 3v
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 * Un ciclo completo abarca cuatro cuadros.
 
